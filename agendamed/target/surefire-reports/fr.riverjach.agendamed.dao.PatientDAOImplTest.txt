@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fr.riverjach.agendamed.dao.PatientDAOImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 3.185 sec
